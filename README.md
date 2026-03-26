@@ -1,11 +1,14 @@
-# Smart-Car-Parking
+# **Smart-Car-Parking**
 Smart Car Parking is an intelligent parking system that uses modern technologies such as sensors and mobile applications to help drivers easily find and reserve parking spaces.
 
 
-#**Presentation link** : https://docs.google.com/presentation/d/1gv7Y1cbqoI22nbUwNMdrfP_K3-oRmjbM/edit?usp=drive_link&ouid=113885751887119731223&rtpof=true&sd=true
+#**Presentation link**: https://docs.google.com/presentation/d/1gv7Y1cbqoI22nbUwNMdrfP_K3-oRmjbM/edit?usp=drive_link&ouid=113885751887119731223&rtpof=true&sd=true
 
 
-**Snopsys link** : https://docs.google.com/document/d/16mKOQYhvLGINjsqEhDY3gtJdR0WTdmOh/edit?usp=drive_link&ouid=113885751887119731223&rtpof=true&sd=true
+**Snopsys link**: https://docs.google.com/document/d/16mKOQYhvLGINjsqEhDY3gtJdR0WTdmOh/edit?usp=drive_link&ouid=113885751887119731223&rtpof=true&sd=true
 
 
-**Source Code** : https://drive.google.com/drive/folders/1ePV7rRDq6H1x9SgjWsURFSymyLuUBHBi?usp=sharing
+**Source Code**: https://drive.google.com/drive/folders/1ePV7rRDq6H1x9SgjWsURFSymyLuUBHBi?usp=sharing
+
+
+**Web Portal Link**: https://script.google.com/macros/s/AKfycbwlM_1ggdlTZaX7PjRYmR68sCd-UoWF8rZ25reLy_6TaJyQiRnkwtcm_DdGuysFeTdF/exec
