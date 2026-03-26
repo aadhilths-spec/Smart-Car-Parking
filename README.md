@@ -3,3 +3,6 @@ Smart Car Parking is an intelligent parking system that uses modern technologies
 
 
 #**Presentation link** : https://docs.google.com/presentation/d/1gv7Y1cbqoI22nbUwNMdrfP_K3-oRmjbM/edit?usp=drive_link&ouid=113885751887119731223&rtpof=true&sd=true
+
+
+**Snopsys link** : https://docs.google.com/document/d/16mKOQYhvLGINjsqEhDY3gtJdR0WTdmOh/edit?usp=drive_link&ouid=113885751887119731223&rtpof=true&sd=true
